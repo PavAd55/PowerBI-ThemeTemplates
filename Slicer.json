@@ -34,7 +34,8 @@
 					"fontFamily": "Segoe UI"
 				}],
 				"slider": [{ 
-					"color": {"solid": { "color": "#FF373A"} }
+					"color": {"solid": { "color": "#FF373A"} },
+					"show": false
 				}]
 			}
 		}
